@@ -1,0 +1,22 @@
+<host-information>
+	<host-info address="*****" port="22">
+		<user>training</user>
+		<pwd>training</pwd>
+		<job>lscpu</job>
+	</host-info>
+	<host-info address="*****" port="22">
+		<user>training</user>
+		<pwd>training</pwd>
+		<job>free -m</job>
+	</host-info>	
+	<host-info address="******" port="22">
+		<user>training</user>
+		<pwd>training</pwd>
+		<job>df -h</job>
+	</host-info>	
+	<host-info address="******" port="22">
+		<user>training</user>
+		<pwd>training</pwd>
+		<job>mount</job>
+	</host-info>	
+</host-information>
